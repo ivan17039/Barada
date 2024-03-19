@@ -8,7 +8,7 @@ namespace Barada
 {
     internal class ivanb
     {
-        private static void Zbrajanje()
+        private static void Oduzimanje()
         {
             return;
         }
